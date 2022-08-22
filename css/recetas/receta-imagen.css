@@ -1,5 +1,24 @@
 .receta__imagen {
     border-radius: 10px;
-    width: 550px;
-    height: 400px;
+}
+
+@media screen and (min-width: 0) {
+    .receta__imagen {
+        width: 342px;
+        height: 300px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .receta__imagen {
+        width: 342px;
+        height: 300px;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .receta__imagen {
+        width: 550px;
+        height: 400px;
+    }
 }

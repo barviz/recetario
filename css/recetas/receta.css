@@ -1,11 +1,7 @@
 .receta {
     display: flex;
     flex-direction: column;
-    margin-bottom: 5rem;
-    margin-right: 5rem;
     position: relative;
-    width: 550px;
-    height: 400px;
     perspective: 1000px;
 }
 
@@ -41,4 +37,28 @@
     background: white;
     backface-visibility: hidden;
     height: 100%;
+}
+
+@media screen and (min-width: 0) {
+    .receta {
+        margin-right: 2rem;
+        margin-bottom: 3rem;
+        width: 342px;
+        height: 300px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .receta {
+        margin-right: 2rem;
+        margin-bottom: 3rem;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .receta {
+        margin-right: 5rem;
+        width: 550px;
+        height: 400px;
+    }
 }
