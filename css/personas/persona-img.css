@@ -1,0 +1,27 @@
+.persona__imagen {
+    background: red;
+    height: 300px;
+    width: 300px;
+}
+
+.persona__imagen--luigi {
+    background: url("../../img/nosotros/luigi.png");
+}
+
+.persona__imagen--marge {
+    background: url("../../img/nosotros/marge.jpg");
+}
+
+
+.persona__imagen--dorys {
+    background: url("../../img/nosotros/dorys.png");
+}
+
+.persona__imagen {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+}
