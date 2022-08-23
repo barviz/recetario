@@ -1,5 +1,6 @@
 .sobre__titulo{
-    color: #8d0606;
+    color: #238823;
+    font-family: 'Leckerli One', cursive;
 }
 
 @media screen and (min-width: 0) {

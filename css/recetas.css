@@ -1,6 +1,5 @@
 .recetas {
-    background: #e5e5e5;
-    display: flex;
+    background-image: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);    display: flex;
     flex-wrap: wrap;
     position: relative;
 }

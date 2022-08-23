@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
 .receta__titulo {
-    font-size: 1.4375rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+@media screen and (min-width: 0) {
+    .receta__titulo {
+        font-size: 1.9rem;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .receta__titulo {
+        font-size: 2.6rem;
+    }
 }

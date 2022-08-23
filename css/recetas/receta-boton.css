@@ -3,6 +3,8 @@
     border: none;
     border-radius: 5px;
     color: #fdfdfd;
-    padding: 1rem;
     cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    padding: 1rem;
+    width: 50%;
 }

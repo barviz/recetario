@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&family=Seaweed+Script&display=swap');
+
 .cabecera {
     align-items: center;
-    background: #f9f9f9;
+    background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
     display: flex;
     justify-content: space-between;
     padding-left: 2rem;

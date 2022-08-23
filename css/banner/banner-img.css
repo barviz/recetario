@@ -1,7 +1,8 @@
 .banner__imagen {
     background: url("../../img/banner.jpg") no-repeat center / cover;
+    filter: blur(0.2rem);
+    opacity: 0.9;
     width: 100%;
-    filter: blur(0.15rem);
 }
 
 @media screen and (min-width: 0) {

@@ -1,12 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
 .menu__link {
-    color: #808080;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
     margin-right: 1.25rem;
     text-decoration: none;
     text-transform: lowercase;
 }
 
 .menu__link.activo {
-    color: #333333;
+    color: #776d6d;
     font-weight: bold;
 }
 

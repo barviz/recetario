@@ -4,21 +4,21 @@
 
 @media screen and (min-width: 0) {
     .receta__imagen {
-        width: 342px;
         height: 300px;
+        width: 342px;
     }
 }
 
 @media screen and (min-width: 768px) {
     .receta__imagen {
-        width: 342px;
         height: 300px;
+        width: 342px;
     }
 }
 
 @media screen and (min-width: 922px) {
     .receta__imagen {
-        width: 550px;
         height: 400px;
+        width: 550px;
     }
 }

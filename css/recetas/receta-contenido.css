@@ -2,11 +2,16 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 6rem;
 }
 
 @media screen and (min-width: 0) {
     .receta__contenido {
-        padding: 3.05rem;
+        padding: 2.2rem;
+    }
+}
+
+@media screen and (min-width: 922px) {
+    .receta__contenido {
+        padding: 6.3rem;
     }
 }

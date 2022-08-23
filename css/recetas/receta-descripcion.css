@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
 .receta__descripcion {
+    font-family: 'DM Sans', sans-serif;
     font-size: 1.1875rem;
     line-height: 1.5;
     text-align: justify;
