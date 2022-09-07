@@ -5,4 +5,5 @@ Proyecto de front-end donde se desarrolla una página web haciendo hincapié en 
 
 #### Deployed: https://barviz.github.io/recetario-alimenticio/
 
-![recetario-alimenticio](https://user-images.githubusercontent.com/96797843/186046091-04278820-089d-4fd8-a046-3f00455833ff.png)
+
+![recetario](https://user-images.githubusercontent.com/96797843/188965994-f02f8a0a-530f-4dd5-8afb-e241c6dbe90b.png)
