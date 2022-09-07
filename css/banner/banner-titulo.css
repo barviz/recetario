@@ -1,6 +1,7 @@
 .banner__titulo {
-    color: #da1111;
-    font-family: 'Seaweed Script', cursive;
+    color: #f04612;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    /*font-family: 'Seaweed Script', cursive;*/
     left: 50%;
     position: absolute;
     text-shadow: 0 4px 4px rgba(255, 255, 255, 0.75);
@@ -18,6 +19,6 @@
 
 @media screen and (min-width: 768px) {
     .banner__titulo {
-        font-size: 8rem;
+        font-size: 6rem;
     }
 }

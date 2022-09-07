@@ -1,6 +1,6 @@
 .banner__imagen {
-    background: url("../../img/banner.jpg") no-repeat center / cover;
-    filter: blur(0.2rem);
+    background: url("../../img/fondo-rec.jpg") no-repeat center / cover;
+    filter: blur(0.1rem);
     opacity: 0.9;
     width: 100%;
 }
